@@ -17,6 +17,8 @@ SQL · Python · Tableau · Excel
 - Visual risk assessment through interactive dashboards
 
 ## 📊 Dashboard
-🔗 *Coming soon — Tableau Public link*
+🔗 **View Dashboard on Tableau Public**  
+https://public.tableau.com/app/profile/radalia.pelayo/viz/aemrfinal/presentation?publish=yes
+
 
 ## 📂 Project Structure
